@@ -111,10 +111,10 @@ Baby.prototype.play = function(){
   TASK 4
 
   In your own words explain the four principles for the "this" keyword below:
-  1. 
-  2. 
-  3. 
-  4. 
+  1. Can reference objects without naming them
+  2. Whenever we use a constructor function, this refers to the specific instance of the object that is created and returned by the constructor function.
+  3. Whenever a preceding dot calls a function, the object before the dot is this.
+  4. Whenever a preceding dot calls a function, the object before the dot is this.
 */
 
 
